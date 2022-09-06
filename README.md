@@ -1,5 +1,7 @@
 # Kubernetes Response Engine: Falco and Fission
 
+This is a little example of using Falco, Falcosidekick and Fission to automatically terminate pods that violate certain rules, in this case when a terminal is spawned in a container.  
+
 ## Prerequisites
 
 ### Install Falco  
